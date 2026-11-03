@@ -1,0 +1,24 @@
+## TC01 - Connexion avec des identifiants valides : 
+# Objectif : Verifier qu'un utilisateur disposant d'identifiants valides peut acceder a l'application.
+
+Precondition : 
+- L'utilisateur doit etre sur la page de connexion.
+- Les identifiants sont disponibles et corrects.
+
+Etapes : 
+- Ouvrir la page de connexion SauceDemo.
+- Saisir un ID valide.
+- Saisir un MDP valide.
+- Cliquer sur "login". 
+
+Resultats attendu : 
+L'utilisateur est redirige vers la page de produits.
+
+Reaultat obtenu : 
+L'utilisateur accede correctement a la page produit.
+
+Statut : 
+PASS
+
+Conclusion : 
+La fonctionnalite de connexion est conforme au resultat attendu. 
