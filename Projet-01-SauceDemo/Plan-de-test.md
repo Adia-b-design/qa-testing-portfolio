@@ -1,20 +1,20 @@
-Projet 01 - Sauce-Demo
+## Projet 01 - Sauce-Demo
 
-1-Presentation du projet : 
+## 1-Presentation du projet : 
 Application testee : SauceDemo.
 Type : Site de commerce en ligne.
 Type de test : Test manuel.
 
-2- Objectif des tests : 
+## 2- Objectif des tests : 
 Verifier le bon fonctionnement des principales fonctionnalites de l'app, notamment la connexion, l'affichage des produits et le panier. 
 
-3- Les fonctionnalites suivantes seront testees : 
+## 3- Les fonctionnalites suivantes seront testees : 
 - Connexion.
 - Affichage des produits.
 - Ajout d'un produit dans le panier.
 - Suppression d'un produit du panier.
 
-4- Environnement de test :
+## 4- Environnement de test :
 - Application : SauceDemo
 - Navigateur : ...
 - Type de test : Manuel
