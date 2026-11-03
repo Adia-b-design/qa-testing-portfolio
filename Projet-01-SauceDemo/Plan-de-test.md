@@ -1,6 +1,6 @@
 Projet 01 - Sauce-Demo
 
-1- Presentation du projet : 
+1-Presentation du projet : 
 Application testee : SauceDemo.
 Type : Site de commerce en ligne.
 Type de test : Test manuel.
