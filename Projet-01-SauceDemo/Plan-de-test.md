@@ -19,8 +19,8 @@ Verifier le bon fonctionnement des principales fonctionnalites de l'app, notamme
 - Navigateur : ...
 - Type de test : Manuel
 
-5- Resultats attendus : 
+## 5- Resultats attendus : 
 Doivent fonctionner conformement au comportement attendu de l'application. 
 
-6- Conclusion
+## 6- Conclusion
 Les resultats seront documents apres l'execution des differents cas de test.
